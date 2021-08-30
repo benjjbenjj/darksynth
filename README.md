@@ -1,6 +1,8 @@
 # Horror DarkSynth
 Sean Bienvenidos a mi Extension de Tema DarkSynth Horror, espero lo disfruten.
 
+![Img text](https://github.com/krazygfx/darksynth/blob/master/icon/darkwp.png?raw=true)
+
 ## Capturas
 
 ![Img text](https://raw.githubusercontent.com/krazygfx/darksynth/master/capturas/cap4.png)

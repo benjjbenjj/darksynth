@@ -626,7 +626,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#383838"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#ff000d"
 			}
 		},
 		{
@@ -662,7 +662,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#8b8a8a"
 			}
 		},
 		{
@@ -672,7 +672,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#F78C6C"
+				"foreground": "#444444"
 			}
 		},
 		{
@@ -699,7 +699,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#ff8282"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -708,7 +708,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#ea9292"
+				"foreground": "#8a0000"
 			}
 		},
 		{
@@ -726,7 +726,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#ea9299"
+				"foreground": "#7a7a7a"
 			}
 		},
 		{
@@ -755,7 +755,7 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#ffeeee"
 			}
 		},
 		{
@@ -764,7 +764,7 @@
 				"variable.language.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#777777"
 			}
 		},
 		{
@@ -774,7 +774,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#65737E"
+				"foreground": "#5f0000"
 			}
 		},
 		{
