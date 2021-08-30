@@ -18,7 +18,7 @@
             }
         ]
     },
-    "icon": "https://cdn.discordapp.com/attachments/862146880410222613/881719124265427014/1630288593908.png",
+    "icon": "icon/dark2.png",
     "author": {
         "name": "KrazyGFX",
         "email": "hbenja640@gmail.com"
@@ -26,5 +26,6 @@
     "repository": {
         "url": "https://github.com/krazygfx/darksynth.git",
         "type": "git"
-    }
+    },
+    "publisher": "codigo-tecsup"
 }
