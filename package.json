@@ -1,0 +1,30 @@
+{
+    "name": "horror-synthwave",
+    "displayName": "Horror SynthWave",
+    "description": "A Horror (Red) Version of a SynthWave Style",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Extension Darksynth Horror",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Extension Dark SynthWave CyberPunk Cyber Horror-color-theme.json"
+            }
+        ]
+    },
+    "icon": "https://cdn.discordapp.com/attachments/862146880410222613/881719124265427014/1630288593908.png",
+    "author": {
+        "name": "KrazyGFX",
+        "email": "hbenja640@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/krazygfx/darksynth.git",
+        "type": "git"
+    }
+}
