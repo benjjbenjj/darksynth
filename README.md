@@ -15,4 +15,4 @@ Sean Bienvenidos a mi Extension de Tema DarkSynth Horror, espero lo disfruten
 ## Contribuciones
 Para una mejor Experiencia, todas las sugerencias son aceptadas.
 
-Puedes enviarme un mensaje por [Correo](hbenja650@gmail.com) o por Discord : KrazyGFX#8207
+Puedes enviarme un mensaje por Correo : hbenja40@gmail.com  o por Discord : KrazyGFX#8207
