@@ -1,5 +1,5 @@
 # Horror DarkSynth
-Sean Bienvenidos a mi Extension de Tema DarkSynth Horror, espero lo disfruten
+Sean Bienvenidos a mi Extension de Tema DarkSynth Horror, espero lo disfruten.
 
 ## Capturas
 
